@@ -1,10 +1,11 @@
-# Server vs Client Components – Mini Project
+# Routing & Layouts – Mini Project
 
-## What this project demonstrates
-- Server-side rendering using Server Components
-- Client-side interactivity using Client Components
+## Features
+- File-based routing
+- Nested layouts for dashboard
+- Loading and error handling
 
-## Key Takeaways
-- Server Components are default in Next.js App Router
-- "use client" is required for hooks and event handlers
-- Server Components can safely access server-only data
+## What I Learned
+- Layouts persist across navigation
+- loading.tsx works automatically
+- error.tsx catches runtime errors
